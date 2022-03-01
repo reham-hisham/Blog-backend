@@ -1,0 +1,32 @@
+{
+  "name": "press-agency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "image-type": "^4.1.0",
+    "is-image": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.3",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.2",
+    "validator": "^13.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reham-hisham/press-agency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reham-hisham/press-agency/issues"
+  },
+  "homepage": "https://github.com/reham-hisham/press-agency#readme",
+  "description": ""
+}
